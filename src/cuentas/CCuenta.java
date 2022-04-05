@@ -1,4 +1,4 @@
-package tarea_ed04;
+package cuentas;
 
 public class CCuenta {
 
